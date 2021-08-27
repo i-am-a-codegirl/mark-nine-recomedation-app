@@ -1,0 +1,13 @@
+.App {
+  max-width: 550px;
+  margin: auto;
+  padding: 2rem;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&display=swap");
+body {
+  font-family: "Nunito", sans-serif;
+  background-color: #dbeafe;
+  border: 1px solid #f472b6;
+  padding-bottom: 14.5rem;
+  border-radius: 1rem;
+}
